@@ -1,46 +1,59 @@
-Vodala Priyanshu - Personal Portfolio 🚀
-Welcome to my personal portfolio website! This project showcases my skills, experience, and projects in the fields of Generative AI, Data Analysis, and Web Development.
+# Vodala Priyanshu - Personal Portfolio 🚀
 
-Portfolio Preview (You can add a screenshot of your site here later!)
+Welcome to my personal portfolio website! This project showcases my skills, experience, and projects in the fields of **Generative AI**, **Data Analysis**, and **Web Development**.
 
-🎨 Theme & Design
-The website features a custom "Red & Glossy" aesthetic:
 
-Glassmorphism: Frosted glass effects on cards and navigation.
-Neon Accents: Vibrant red tones (#ff0033) against a dark background.
-Micro-Animations: Smooth interactions using Framer Motion for a premium feel.
-Responsive Layout: Seamless experience across mobile, tablet, and desktop.
-✨ Features
-Hero Section: Animated introduction with dynamic text entry.
-About Me: Interactive timeline of my Education and background.
-Experience: Showcase of my key projects (Salary Estimation, Flappy Bird) and certifications.
-Skills Showcase: Visual progress bars for technical skills (Python, SQL, Gen AI).
-Contact: Interactive section with direct social links and a "Copy Phone Number" feature.
-🛠️ Tech Stack
-Frontend: React + Vite
-Styling: Vanilla CSS (Variables, Flexbox, Grid)
-Animations: Framer Motion
-🚀 Getting Started
-Prerequisites
-Make sure you have Node.js installed.
 
-Installation
-Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
-Navigate to the project directory:
-cd your-repo-name
-Install dependencies:
-npm install
-Running Locally
+## 🎨 Theme & Design
+The website features a custom **"Red & Glossy"** aesthetic:
+- **Glassmorphism**: Frosted glass effects on cards and navigation.
+- **Neon Accents**: Vibrant red tones (`#ff0033`) against a dark background.
+- **Micro-Animations**: Smooth interactions using `Framer Motion` for a premium feel.
+- **Responsive Layout**: Seamless experience across mobile, tablet, and desktop.
+
+## ✨ Features
+- **Hero Section**: Animated introduction with dynamic text entry.
+- **About Me**: Interactive timeline of my Education and background.
+- **Experience**: Showcase of my key projects (Salary Estimation, Flappy Bird) and certifications.
+- **Skills Showcase**: Visual progress bars for technical skills (Python, SQL, Gen AI).
+- **Contact**: Interactive section with direct social links and a "Copy Phone Number" feature.
+
+## 🛠️ Tech Stack
+- **Frontend**: [React](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- **Styling**: Vanilla CSS (Variables, Flexbox, Grid)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+
+## 🚀 Getting Started
+
+### Prerequisites
+Make sure you have [Node.js](https://nodejs.org/) installed.
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/priyanshu-0605/my-portfolio.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd my-portfolio
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Running Locally
 Start the development server:
-
+```bash
 npm run dev
-Open your browser and visit http://localhost:5173.
+```
+Open your browser and visit `http://localhost:5173`.
 
-📬 Contact
-Vodala Priyanshu
+## 📬 Contact
+**Vodala Priyanshu**  
+- 📧 Email: vodalapriyanshu@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/priyanshu-vodala-971031302/)
+- 🐙 [GitHub](https://github.com/priyanshu-0605)
 
-📧 Email: vodalapriyanshu@gmail.com
-🔗 LinkedIn
-🐙 GitHub
-Built with ❤️ by Vodala Priyanshu
+---
+*Built with ❤️ by Vodala Priyanshu*
