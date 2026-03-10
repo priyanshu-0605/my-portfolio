@@ -2,8 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects in the fields of **Generative AI**, **Data Analysis**, and **Web Development**.
 
-![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview)
-*(You can add a screenshot of your site here later!)*
+
 
 ## 🎨 Theme & Design
 The website features a custom **"Red & Glossy"** aesthetic:
@@ -32,11 +31,11 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/priyanshu-0605/my-portfolio.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repo-name
+   cd my-portfolio
    ```
 3. Install dependencies:
    ```bash

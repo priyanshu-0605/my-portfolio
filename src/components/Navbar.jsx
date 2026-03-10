@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { motion, useScroll, useMotionValueEvent } from 'framer-motion';
 
+
+
 const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
   const { scrollY } = useScroll();
@@ -40,10 +42,22 @@ const Navbar = () => {
         boxSizing: 'border-box'
       }}
     >
-      <div className="logo" style={{ fontSize: '1.8rem', fontWeight: 'bold', fontFamily: 'var(--font-display)', letterSpacing: '-1px' }}>
-        <span style={{ color: 'white' }}>V</span>
-        <span style={{ color: 'var(--color-primary)' }}>.</span>
-        <span style={{ color: 'white' }}>P</span>
+      <div className="logo">
+        <a
+          href="#home"
+          style={{
+            fontFamily: 'var(--font-display)',
+            fontSize: '1.8rem',
+            fontWeight: '700',
+            color: 'var(--color-text)',
+            textDecoration: 'none',
+            letterSpacing: '-1px'
+          }}
+          onMouseOver={(e) => e.target.style.color = 'var(--color-primary)'}
+          onMouseOut={(e) => e.target.style.color = 'var(--color-text)'}
+        >
+          V.P
+        </a>
       </div>
 
       {/* Desktop Menu */}
